@@ -1,0 +1,54 @@
+.home {
+  display: flex;
+}
+
+.f12 {
+  display: flex;
+  gap: 53px;
+}
+.back {
+  background-image: url(./image.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.f1 {
+}
+.f1 input {
+  border-radius: 7px;
+  height: 25px;
+}
+.f2 {
+}
+
+.f2 input {
+  border-radius: 7px;
+  height: 25px;
+}
+#password {
+  border-color: red;
+}
+.f3 {
+}
+#name {
+  border-color: green;
+}
+#name:focus {
+  background-color: rgb(181, 228, 228);
+}
+.f3 input {
+  background-color: green;
+  border: none;
+  width: 222px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.f3 {
+}
+.f4 input {
+  color: green;
+  border: none;
+}
+.f4 {
+  display: flex;
+}
